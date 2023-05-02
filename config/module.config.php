@@ -390,5 +390,17 @@ return [
                 'prism.wordCount',
             ],
         ],
+        'custom' => [
+            'label' => 'Custom Names for museum.dantalion.nl', // @translate
+            'meta_names' => [
+                'description',
+                'author',
+                'og:title',
+                'og:type',
+                'og:description',
+                'og:image',
+                'article:published_time',
+            ],
+        ],
     ],
 ];
